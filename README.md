@@ -1,4 +1,4 @@
-# This is menu application example which uses react-motion.
+# This is menu application example using react-motion.
 
 You can see it running:
 https://bigfanjs.github.io/react-menu/
