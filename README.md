@@ -1,4 +1,4 @@
-# This is menu application example using react-motion.
+# This is a menu application example using react-motion.
 
 ## You can see it running:
 
